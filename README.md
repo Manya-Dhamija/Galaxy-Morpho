@@ -52,4 +52,5 @@ Galaxy-Morpho/
 ├── README.md
 ├── project_report.pdf
 ├── module2_classification.ipynb
+├── galaxy_prediction.csv
 └── module3_simulation.py
