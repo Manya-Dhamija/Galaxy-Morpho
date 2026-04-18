@@ -52,5 +52,4 @@ Galaxy-Morpho/
 ├── README.md
 ├── project_report.pdf
 ├── module2_classification.ipynb
-├── module3_simulation.py
-└── requirements.txt
+└── module3_simulation.py
